@@ -1,3 +1,4 @@
+#Autor: José Ángel Vicente Porres
 import numpy as np
 
 def __D( a ,b , Delta ):
